@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://anandjoshi.com"><img src="https://img.shields.io/badge/Website-anandjoshi.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://blog.anandjoshi.com"><img src="https://img.shields.io/badge/Blog-blog.anandjoshi.com-FF5722?style=flat-square&logo=rss&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ananddjoshi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ananddjoshi"><img src="https://img.shields.io/badge/LinkedIn-ananddjoshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
