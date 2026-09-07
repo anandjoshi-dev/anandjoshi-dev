@@ -56,6 +56,13 @@ Because the code is private, the thinking is public — architecture, engineerin
 
 ---
 
+### 📊 Fun stats
+
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=anandjoshi-dev&stats=true" alt="Contribution">
+</img>
+
+---
+
 <p align="center">
   <sub>Open to conversations about hard systems problems — wherever the domain happens to be.</sub>
 </p>
