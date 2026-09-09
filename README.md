@@ -23,11 +23,11 @@ I'm domain-agnostic by design, and by track record. I've shipped in **finance an
 
 ### 🧭 How I work
 
-**Design in the open** — non-trivial changes start as a diagram and a trade-off doc. If I can't draw it, I don't understand it yet.
-**Learn a domain by modeling it** — find the invariants, find where the state actually moves, draw it, pressure-test it with the people who've lived it.
-**Reliability is a feature, not a phase** — failure modes and rollback come out of the same conversation as the happy path.
-**Optimize second-order effects** — the best change makes the next ten cheaper.
-**Leadership is leverage, not distance** — still reading the diffs, still writing the tools.
+- **Design in the open** — non-trivial changes start as a diagram and a trade-off doc. If I can't draw it, I don't understand it yet.
+- **Learn a domain by modeling it** — find the invariants, find where the state actually moves, draw it, pressure-test it with the people who've lived it.
+- **Reliability is a feature, not a phase** — failure modes and rollback come out of the same conversation as the happy path.
+- **Optimize second-order effects** — the best change makes the next ten cheaper.
+- **Leadership is leverage, not distance** — still reading the diffs, still writing the tools.
 
 ---
 
@@ -50,7 +50,7 @@ Because the code is private, the thinking is public — architecture, engineerin
 
 - **[Route the Task, Not the Tool](https://blog.anandjoshi.com/posts/route-the-task)** — treating four AI models as colleagues with different strengths, and how that routing habit rebuilt a lean team's bench without new headcount.
 - **[Nobody Killed This Platform. Everyone Just Left.](https://blog.anandjoshi.com/posts/the-slow-death-of-a-great-platform)** — why well-built systems die of neglect rather than bad engineering, and how to design one so its decline stays visible and reversible.
-- `<post 3>`
+- **[Solo, Not Small.](https://blog.anandjoshi.com/posts/solo-not-small)** — holding a one-person project to platform standards: a written spec, security review gates, a CI fleet, and a framework migration nobody asked for.
 
 📚 More at **[blog.anandjoshi.com](https://blog.anandjoshi.com)**
 
@@ -58,11 +58,8 @@ Because the code is private, the thinking is public — architecture, engineerin
 
 ### 📊 Fun stats
 
-<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=anandjoshi-dev&stats=true" alt="Contribution">
-</img>
+[![Contribution](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=anandjoshi-dev&stats=true)](https://github.com/anandjoshi-dev)
 
 ---
 
-<p align="center">
-  <sub>Open to conversations about hard systems problems — wherever the domain happens to be.</sub>
-</p>
+Open to conversations about hard systems problems — wherever the domain happens to be.
