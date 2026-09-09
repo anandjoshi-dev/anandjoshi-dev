@@ -62,4 +62,6 @@ Because the code is private, the thinking is public — architecture, engineerin
 
 ---
 
-Open to conversations about hard systems problems — wherever the domain happens to be.
+<p align="center">
+  <sub>Open to conversations about hard systems problems — wherever the domain happens to be.</sub>
+</p>
